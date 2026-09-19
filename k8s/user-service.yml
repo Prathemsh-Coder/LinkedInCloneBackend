@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: user-service
-        image: anuj55149/linkedin-app-user-service
+        image: prathemshcoder/linkedin-app-user-service
         resources:
           limits:
             memory: "400Mi"

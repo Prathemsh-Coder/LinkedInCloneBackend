@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: connections-service
-        image: anuj55149/linkedin-app-connections-service
+        image: prathemshcoder/linkedin-app-connections-service
         resources:
           limits:
             memory: "400Mi"
